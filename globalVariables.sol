@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: GPL3.0
 pragma solidity 0.8.27;
 
 contract GlobalVariables{
